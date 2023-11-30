@@ -7,8 +7,6 @@ Este projeto implementa um simples sistema de conta bancária usando Cucumber pa
 - [Funcionalidades](#funcionalidades)
 - [Cenários](#cenários)
 - [Como Usar](#como-usar)
-- [Contribuições](#contribuições)
-- [Licença](#licença)
 
 ## Funcionalidades
 
